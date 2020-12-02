@@ -2,17 +2,17 @@
 
 body {
   font-family: Times New Roman, Times, serif;
-  color: white;
+  color: grey;
   margin: 2em;
 }
+
 body {
-  background-color: black;
 }
 
 h1 {font-family: 'Italianno', cursive;
   font-style: italic;
-  color: white;
-  font-size: 100px;
+  color: #CCBFB2;
+  font-size: 80px;
 }
 
 
@@ -34,6 +34,11 @@ table, th, td {
   border: 1px solid grey;
   border-collapse: collapse;
 }
+
+.center {
+  text-align: center;
+}
+
 th, td {
   padding: 5px;
   text-align: center;   
