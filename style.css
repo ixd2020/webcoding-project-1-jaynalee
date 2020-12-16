@@ -284,3 +284,47 @@ a:active {
   padding-right: 150px;
   padding-bottom: 100px;
 }
+
+.soa{
+  width: 30%
+}
+
+.rtitle{
+  float: left;
+  padding-left: 150px;
+}
+
+.rtext{
+  float: left;
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 1080px;
+}
+
+
+.mona{
+  width: 30%
+}
+
+.rtitle2{
+  float: left;
+  padding-left: 150px;
+}
+
+.rtext2{
+  float: left;
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 1080px;
+}
+
+.supper{
+  width: 30%
+}
+
+.rtitle3{
+  float: left;
+  padding-left: 150px;
+}
+
+
