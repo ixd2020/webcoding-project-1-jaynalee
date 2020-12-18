@@ -36,8 +36,6 @@ table, th, td {
   border: 3px solid white;
   background-color: #CCBFB2; 
   border-collapse: collapse;
-  
-  
 }
 
 th, td {
@@ -283,57 +281,99 @@ a:active {
 }
 
 .soa{
-  width: 80%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .rtitle{
-  float: left;
-  padding-left: 150px;
+  display: block;
+  text-align: justify;
+  padding-left: 680px;
+  padding-right: 500px;
 }
 
 .rtext{
-  float: left;
+  display: block;
   text-align: justify;
-  padding-left: 50px;
-  padding-right: 1080px;
+  padding-left: 500px;
+  padding-right: 500px;
 }
 
 
 .mona{
-  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .rtitle2{
-  float: left;
-  padding-left: 150px;
+  display: block;
+  text-align: justify;
+  padding-left: 640px;
+  padding-right: 500px;
 }
 
 .rtext2{
-  float: left;
+  display: block;
   text-align: justify;
-  padding-left: 50px;
-  padding-right: 1080px;
+  padding-left: 500px;
+  padding-right: 500px;
 }
 
 .supper{
-  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .rtitle3{
-  float: left;
-  padding-left: 150px;
+  display: block;
+  text-align: justify;
+  padding-left: 640px;
+  padding-right: 500px;
+}
+
+.rtext3{
+  display: block;
+  text-align: justify;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+.adam{
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .david{
-  width: 20%
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
  
 .peter{
-  width: 20%
+   width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .bacchus{
-  width: 20%
+   width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 * {box-sizing: border-box}
