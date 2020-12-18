@@ -342,38 +342,39 @@ a:active {
   text-align: justify;
   padding-left: 500px;
   padding-right: 500px;
+  width:100%;
 }
 
 .adam{
-  width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 10px;
 }
 
 .david{
-  width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 10px;
 }
  
 .peter{
-   width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 10px;
 }
 
 .bacchus{
-   width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 10px;
 }
 
 * {box-sizing: border-box}
